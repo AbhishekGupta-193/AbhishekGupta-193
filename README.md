@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Angular**
 
-- 👯 I’m looking to collaborate on **Fontend Projects**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
 
 - 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
 
