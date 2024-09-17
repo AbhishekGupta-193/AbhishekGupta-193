@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 👨‍💻 All of my projects are available at [https://portfolioabhishekkgupta.vercel.app/](portfolio link)
+- 👨‍💻 All of my projects are available at [https://portfolioabhishekkgupta.vercel.app/] (portfolio link)
 
 - 📫 How to reach me **abhishekkgupta193@gmail.com**
 
