@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekgupta-193&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekgupta-193" /> </p>
 
-- 🔭 I’m currently working on **Angular** & **ASpring Boot**
+- 🔭 I’m currently working on **Angular** & **Spring Boot**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
